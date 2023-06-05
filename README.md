@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @h3ngk1
+- 👋 Hi, I’m Hengki
 - 👀 I’m interested in programming stuff
 - 🌱 I’m currently deep learning in HTML, CSS, Javascript, Python languages
 - 💞️ I’m looking to collaborate on a company

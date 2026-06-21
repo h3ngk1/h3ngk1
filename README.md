@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Hengki
-- 👀 I’m interested in programming stuff
-- 🌱 I’m currently deep learning in HTML, CSS, Javascript, Python languages
-- 💞️ I’m looking to collaborate on a company
-- 📫 Reach me by ....
+- 👀 Take a look my SaaS platform - inviqe.com
+- 🌱 I’m looking to collaborate on a company
+- 📫 My portfolio > hengki.space
 
 <!---
 h3ngk1/h3ngk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hengki
-- 👀 Take a look my SaaS platform - inviqe.com
-- 🌱 I’m looking to collaborate on a company
+- 👀 Take a look on my SaaS platform - inviqe.com
+- 🌱 I’m looking to collaborate/share
 - 📫 My portfolio > hengki.space
 
 <!---
